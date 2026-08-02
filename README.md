@@ -49,13 +49,6 @@ portfolio/
 | Experience      | `index.html` experience section        |
 | Colors / fonts  | CSS variables at the top of `css/style.css` |
 
-## Run Locally
-
-Open `index.html` directly in a browser, or serve it:
-
-```bash
-python -m http.server 8000
-```
 
 ## Deploy to GitHub Pages
 
