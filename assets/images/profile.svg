@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">Tareq Hasan</title>
+  <desc id="desc">Placeholder portrait, replace with assets/images/profile photo</desc>
+  <rect width="180" height="180" fill="#f5f5f5"/>
+  <circle cx="90" cy="72" r="34" fill="#d4d4d4"/>
+  <path d="M36 168c4-34 28-52 54-52s50 18 54 52z" fill="#d4d4d4"/>
+  <text x="90" y="158" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="600">Tareq Hasan</text>
+</svg>
